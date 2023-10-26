@@ -10,6 +10,10 @@
  * Description: first struct on low level programming
  */
 
+/**
+ * dog_t - new name for struct dog
+ */
+typedef struct dog dog_t;
 struct dog
 {
 	char *name;
